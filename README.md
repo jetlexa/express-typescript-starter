@@ -1,4 +1,4 @@
-#Express-Typescript-Starter-Template
+# Express-Typescript-Starter-Template
 
 
 
@@ -12,6 +12,11 @@
  - .production.env
  - .dev.env
 
+## Watch 
+
+
+**npm run watch** will watch typings and  build app.
+
 
 ## Start 
 
@@ -20,10 +25,6 @@
 
 - **npm start** will start express app with production env variables
 
-## Watch 
-
-
-**npm run watch** will watch typings and  build app.
 
 
 
