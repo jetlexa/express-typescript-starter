@@ -5,7 +5,7 @@
 ## Steps before start
 
 
-1- Create env file in projects root folder
+1- Create env folder in projects root folder
 
 2- Create two env files with following names :
 
