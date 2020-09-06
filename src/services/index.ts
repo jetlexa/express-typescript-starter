@@ -1,8 +1,6 @@
-import {Router} from "express";
-import testRouter from './test';
+import { Router } from "express";
+import spacex from "./spacex";
 const router = Router();
 
- 
-
-router.use("/test",testRouter)
+router.use("/spacex", spacex);
 export default router;

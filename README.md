@@ -10,6 +10,11 @@
 
 2- Create two env files with following names :
 
+3- Install redis-server
+
+4- Run server on port 6379 by npm run redis
+
+- Windows : https://github.com/microsoftarchive/redis/releases
 - .production.env
 - .dev.env
 
