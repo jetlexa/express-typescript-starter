@@ -3,4 +3,5 @@ build
 src/**.js
 .idea/*
 env/**.env
+dump.rdb
 package-lock.json

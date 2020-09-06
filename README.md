@@ -8,15 +8,13 @@
 
 1- Create env folder in projects root folder
 
-2- Create two env files with following names :
+2- Create two env files with following names : - .production.env - .dev.env
 
 3- Install redis-server
 
 4- Run server on port 6379 by npm run redis
 
-- Windows : https://github.com/microsoftarchive/redis/releases
-- .production.env
-- .dev.env
+- For Windows : https://github.com/microsoftarchive/redis/releases
 
 ## Watch
 
@@ -24,6 +22,7 @@
 
 ## Start
 
+- Run watch command before start to build first
 - **npm run dev** will start express app with development environment variables
 
 - **npm start** will start express app with production env variables
